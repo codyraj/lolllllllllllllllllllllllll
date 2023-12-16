@@ -218,4 +218,8 @@ body {
     }
 }
 
-
+@media  (max-width: 405px){
+    :root{
+        font-size: 8px;
+    }
+}
